@@ -1,0 +1,6 @@
+E:\Projects\GIFCombiner\GIFCombiner\bin\Debug\GIFCombiner.exe.config
+E:\Projects\GIFCombiner\GIFCombiner\bin\Debug\GIFCombiner.exe
+E:\Projects\GIFCombiner\GIFCombiner\bin\Debug\GIFCombiner.pdb
+E:\Projects\GIFCombiner\GIFCombiner\obj\Debug\GIFCombiner.csprojAssemblyReference.cache
+E:\Projects\GIFCombiner\GIFCombiner\obj\Debug\GIFCombiner.exe
+E:\Projects\GIFCombiner\GIFCombiner\obj\Debug\GIFCombiner.pdb
